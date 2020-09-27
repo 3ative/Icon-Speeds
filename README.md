@@ -1,6 +1,7 @@
 # Icon-Speeds
 How to make rotating icons faster or slower, using CSS
 
+![1](https://github.com/3ative/Icon-Speeds/blob/master/3_speeds.gif)
 
 ```yaml
 color: var(--state-icon-color)
