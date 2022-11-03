@@ -33,8 +33,7 @@ styles:
     - font-size: 10px
 type: 'custom:button-card'
 ```
-
-
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
